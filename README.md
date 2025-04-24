@@ -12,7 +12,7 @@ This repository contains the following folders, each representing a distinct pro
   - **Description**: This project focuses on classifying and tracking the behavior of hens using the CNN based deep learning framework, YOLO(v8). This implementation could further be used in optimizing space allocations and improve animal welfare in poultry farming. 
 
 - **`Interactive App for ML Model Training and EDA/`**
-  - **Description**: This folder contains the application of an intercative dashboard aiming to provide insights into healthcare utilization among older Americans using the NPHA dataset. Users get an overview of the general trends in data, and choose to focus on parts of it with different visual aids. They can also train a customized Machine Learning model to predict the number of doctor visits and see how changing inputs of one parameter affects the model.
+  - **Description**: This folder contains the application of an interactive dashboard aiming to provide insights into healthcare utilization among older Americans using the NPHA dataset. Users get an overview of the general trends in data, and choose to focus on parts of it with different visual aids. They can also train a customized Machine Learning model to predict the number of doctor visits and see how changing inputs of one parameter affects the model.
 
 - **`Interpretable Prediction of Molecular Atomization Energy from 3D Geometry/`**
   - **Description**: In this project, we visualize multi-dimensional molecular data and identify bonds in 3D Space. We also use Ridge Regression to predict the atomization energy of the molecule and understand contribution of each atom. We also do a Molecule Representation based on Pairwise Distance between atoms and explain atomization energy as a function of both atomic bond distance and the bond type.
@@ -26,7 +26,7 @@ This repository contains the following folders, each representing a distinct pro
 - **`PTB Time Series/`**
   - **Description**: This project was in collaboration with PTB (Physikalisch-Technische Bundesanstalt), where we tried to solve the problem of Energy price forecasting with data provided by PTB. We perform EDA and Feature Engineering on the dataset and explore multiple Time-Series models, as well as ML models to see which fits best. 
 
-- **`Parkinson's Disease Prediction From_Audio/`**
+- **`Parkinson's Disease Prediction From Audio/`**
   - **Description**: This project features Parkinson’s Disease Prediction using live voice recording analysis with a Random Forest Regressor. The results are also integrated through a Flask application where users can record their voice and get the assessment in a web interface.
 
 - **`Pixel Contribution Maps-Emphasizing Excitatory Effects in CNN/`**
