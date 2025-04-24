@@ -24,7 +24,7 @@ This repository contains the following folders, each representing a distinct pro
   - **Description**: This project is inspired by the AMIA challenge in Kaggle, where the aim is to use chest radiographs to identify and categorise thoracic anomalies. In this case, we have used a YOLO-based deep learning framework for the said task. We expect the model to identify abnormalities in images with a bounding box around each instance, and classify their respective types (including a ”No Finding” class, where the model does not recognize any abnormality in a given image).
     
 - **`PTB Time Series/`**
-  - **Description**: This project was in collaboration with PTB (Physikalisch-Technische Bundesanstalt), where we tried to solve the problem of Energy price forecasting with data provided by PTB. We perform EDA on the dataset and explore multiple Time-Series models, as well as ML models to see which fits best. 
+  - **Description**: This project was in collaboration with PTB (Physikalisch-Technische Bundesanstalt), where we tried to solve the problem of Energy price forecasting with data provided by PTB. We perform EDA and Feature Engineering on the dataset and explore multiple Time-Series models, as well as ML models to see which fits best. 
 
 - **`Parkinson's_Disease_Prediction_From_Audio/`**
   - **Description**: This project features Parkinson’s Disease Prediction using live voice recording analysis with a Random Forest Regressor. The results are also integrated through a Flask application where users can record their voice and get the assessment in a web interface.
